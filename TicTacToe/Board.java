@@ -1,6 +1,9 @@
 package TicTacToe;
 
 import java.util.List;
+
+import TicTacToe.model.Pair;
+
 import java.util.ArrayList;
 
 public class Board {
