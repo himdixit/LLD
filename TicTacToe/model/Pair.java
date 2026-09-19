@@ -1,4 +1,4 @@
-package TicTacToe;
+package TicTacToe.model;
 
 /**
  * Pair

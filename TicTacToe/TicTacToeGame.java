@@ -5,6 +5,9 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 
+import TicTacToe.model.Pair;
+import TicTacToe.model.Player;
+
 public class TicTacToeGame {
     private Board gameBoard;
     private Deque<Player> players;

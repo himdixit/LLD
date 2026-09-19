@@ -1,4 +1,6 @@
-package TicTacToe;
+package TicTacToe.model;
+
+import TicTacToe.PlayingPiece;
 
 public class Player {
     private String name;
